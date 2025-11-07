@@ -27,12 +27,32 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
+                        Happiest Birthday, Baby! 💖
+You deserve all the happiness, love, and smiles in the world — today and always.
+
+I know I’ve hurt you sometimes, and you’ve been through a lot because of me... but still, you never stopped caring. You’ve always been there for me — supporting me, loving me, even when I didn’t deserve it. 😔
+
+I’m really sorry for everything I did that made you sad, baby... and thank you for everything you’ve done for me. You’re my peace, my strength, and my reason to smile. 💕
+
+Today is your day — so forget everything else and just be happy, even if it’s for a moment. You’ve got such a beautiful heart, and you deserve all the love in the world. 🌸
+
+When you look at these photos, remember all those little moments — the laughs, the silly talks, the memories... those were truly some of the happiest days of my life. 🥺💞
+
+I’m sorry once again for all my mistakes, baby. And thank you for being you — my everything.
+
+Keep smiling, stay happy always, and never forget how much you’re loved.
+
+Love you so much, my baby... my pondatty... my life. 💗
+
+Once again — Happiest Birthday to my Love, my Life, my Everything! 🎂💖
+                    </p>
+                    {/* <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
                         Happiest Birthday, Baby! You deserve all the happiness, love, and smiles in the world today and always. Unna Romba kashta paduthi irukka baby.but, konjam Happya vachi irunthu irukka.sooo, Sorry for everything i does to you
                         and Thanks for everything you does to Me. Innaiku unnoda Birthday, Mudinja varaikkum Happya iru Baby. Find a reason to smile every day,
                         and Love you So Much Baby, Once Again Happiest Birthday to My Love, My Life, My one and Only caretaker.Intha Photos lam Pathu iruppa antha photos edutha Memories lam yosichi paaru,
                         Antha Days lam one of the Happiest days in my Life and Sorryyyyy Babyyyy.... and Thanks for Everything Babyyyyy... and Love you So Much Babyyyyyyyyy..... 💗
                         Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness. Love You Pondattyyyyyy.....
-                    </p>
+                    </p> */}
                 </motion.div>
             </div>
         </div>
